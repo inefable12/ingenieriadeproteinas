@@ -1,0 +1,13 @@
+Base de datos de proteínas
+
+1. UniProt: Una base de datos completa que cataloga secuencias de proteínas y anotaciones funcionales, vinculando los datos estructurales con las funciones biológicas.
+2. Proteín Databank (PDB): El principal archivo global de datos estructurales 3D de macromoléculas biológicas. Proporciona información detallada sobre las estructuras de las proteínas, las interacciones de ligandos y las condiciones experimentales.
+3. AlphaFold: https://alphafold.ebi.ac.uk/
+
+Proteínas para el análisis:
+A. Green Fluorescent Protein
+https://www.uniprot.org/uniprotkb/P42212/entry 
+B. CRP de E. coli (Catabolite receptor protein ) conformaciones apo y holo 3hif , 1I5Z
+https://www.uniprot.org/uniprotkb/P0ACJ8/entry
+C. MerR  Factor de transcripción de Thermus Thermophilus  conformaciones apo y holo 
+https://www.uniprot.org/uniprotkb/Q799U3/entry
